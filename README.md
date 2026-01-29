@@ -167,3 +167,5 @@ WeaponBoomBoxerIntensity = 0.8
 # Default value: 1
 WeaponBoomBlasterIntensity = 1
 ```
+
+You are visitor: ![Page views](https://dteyn-rad-page.netlify.app/.netlify/functions/pageviews?repo=RoguePinatas_bHaptics)
